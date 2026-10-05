@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Semih Altintas, Full-Stack and Low-Code Developer, SAP BTP Specialist">
+  <style>
+    .name { font: 800 64px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: -2px; fill: #ecebe6; }
+    .role { font: 500 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ecebe6; opacity: .8; }
+    .meta { font: 400 17px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8d8d96; }
+    .tag  { font: 600 15px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .strand { fill: none; stroke-width: 3; stroke-linecap: round; stroke-dasharray: 900; stroke-dashoffset: 900; animation: draw 1.6s cubic-bezier(.22,1,.36,1) forwards; }
+    .s2 { animation-delay: .15s } .s3 { animation-delay: .3s }
+    .merged { stroke-dasharray: 100; stroke-dashoffset: 100; animation: draw .8s cubic-bezier(.22,1,.36,1) 1.3s forwards; }
+    .dot { opacity: 0; animation: pop .4s ease-out 1.25s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0 } }
+    @keyframes pop { to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) { .strand, .merged { animation: none; stroke-dashoffset: 0 } .dot { animation: none; opacity: 1 } }
+  </style>
+  <defs>
+    <radialGradient id="g1" cx="12%" cy="10%" r="55%"><stop offset="0" stop-color="#7fa7ff" stop-opacity=".18"/><stop offset="1" stop-color="#7fa7ff" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="90%" cy="85%" r="45%"><stop offset="0" stop-color="#4fd1c5" stop-opacity=".14"/><stop offset="1" stop-color="#4fd1c5" stop-opacity="0"/></radialGradient>
+    <linearGradient id="m" gradientUnits="userSpaceOnUse" x1="320" y1="0" x2="420" y2="0"><stop offset="0" stop-color="#e8b04b"/><stop offset="1" stop-color="#ecebe6"/></linearGradient>
+    <clipPath id="r"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="320" fill="#0a0a0a"/>
+    <rect width="1200" height="320" fill="url(#g1)"/>
+    <rect width="1200" height="320" fill="url(#g2)"/>
+
+    <text x="64" y="118" class="name">Semih Altintas</text>
+    <text x="66" y="162" class="role">Full-Stack &amp; Low-Code Developer · SAP BTP Specialist</text>
+    <text x="66" y="196" class="meta">Maasmechelen, Belgium</text>
+
+    <!-- Three domains bridging into one solution -->
+    <g transform="translate(64 228)">
+      <rect x="0" y="0" width="100" height="28" rx="14" fill="#0a0a0a" stroke="#7fa7ff" stroke-opacity=".5"/>
+      <text x="50" y="19" text-anchor="middle" class="tag" fill="#7fa7ff">Full-Stack</text>
+      <rect x="112" y="0" width="98" height="28" rx="14" fill="#0a0a0a" stroke="#e8b04b" stroke-opacity=".5"/>
+      <text x="161" y="19" text-anchor="middle" class="tag" fill="#e8b04b">Low-Code</text>
+      <rect x="222" y="0" width="88" height="28" rx="14" fill="#0a0a0a" stroke="#4fd1c5" stroke-opacity=".5"/>
+      <text x="266" y="19" text-anchor="middle" class="tag" fill="#4fd1c5">SAP BTP</text>
+    </g>
+
+    <g transform="translate(728 88) scale(.82)">
+      <path class="strand" d="M0 20 C 140 20, 200 90, 320 90" stroke="#7fa7ff"/>
+      <path class="strand s2" d="M0 90 C 100 90, 150 120, 220 104 S 290 90, 320 90" stroke="#e8b04b"/>
+      <path class="strand s3" d="M0 160 C 140 160, 200 90, 320 90" stroke="#4fd1c5"/>
+      <path class="merged" d="M320 90 L 400 90" stroke="url(#m)" stroke-width="4" stroke-linecap="round" fill="none"/>
+      <circle class="dot" cx="320" cy="90" r="7" fill="#ecebe6"/>
+      <g class="dot" style="animation-delay:1.9s">
+        <rect x="404" y="74" width="104" height="32" rx="16" fill="#0a0a0a" stroke="#ecebe6" stroke-opacity=".35"/>
+        <text x="456" y="95" text-anchor="middle" class="tag" fill="#ecebe6">One solution</text>
+      </g>
+    </g>
+  </g>
+</svg>
