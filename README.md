@@ -6,7 +6,7 @@ I'm an application developer based in Belgium with a Bachelor's degree in Applie
 
 I take a strong interest in **AI and AI agents**: systems that retrieve information, call tools and take the next step on their own. I follow developments in the field closely and apply them in my own work, from local LLMs and RAG to agentic workflows.
 
-- 🔭 Open to roles as a **full-stack**, **low-code** or **SAP BTP developer**
+- 🔭 Open to roles and projects as an **AI engineer**, **full-stack**, **low-code** or **SAP BTP developer**
 - 🤝 Experienced in Agile/Scrum teams: stand-ups, refinements, sprint reviews and code reviews
 - 🌍 Dutch and Turkish (native), English (fluent), French (basic)
 - 🌐 Portfolio: **[semih-portfolio-zeta.vercel.app](https://semih-portfolio-zeta.vercel.app)**
