@@ -1,20 +1,15 @@
 <img src="assets/header.svg" alt="Semih Altintas, Full-Stack & Low-Code Developer, AI enthusiast" width="100%">
 
-### Hi, I'm Semih
+## About me
 
-I'm an application developer from Belgium with a Bachelor in Applied Computer Science. I work where **full-stack development**, **low-code platforms** and **SAP Cloud** meet: some problems need hand-written Java or .NET, others are solved faster with a Power Automate flow or a CAP service on SAP BTP. I pick the right tool instead of the familiar one.
+I'm an application developer based in Belgium with a Bachelor's degree in Applied Computer Science. My work sits where **full-stack development**, **low-code platforms** and **SAP Cloud** meet. Some problems call for hand-written Java or .NET, while others are solved faster with a Power Automate flow or a CAP service on SAP BTP. I choose the tool that fits the problem, not the one I happen to know best.
 
-### Into AI
+I take a strong interest in **AI and AI agents**: systems that retrieve information, call tools and take the next step on their own. I follow developments in the field closely and apply them in my own work, from local LLMs and RAG to agentic workflows.
 
-I'm an **AI enthusiast**. When I need to figure something out, I reach for AI first, and more and more for **AI agents** that look things up and take the next step on their own. In my free time I watch and read a lot about where AI is heading, and I experiment with it myself.
-
-Want to see what that looks like? Have a look at the **[projects on my GitHub](https://github.com/InviXtaHydra?tab=repositories)**, starting with **[Invixta](https://github.com/InviXtaHydra/invixta)**: a web shop with an AI support agent that runs on a local model, searches the shop's documents with RAG and asks before it acts.
-
-- Open to new roles as a full-stack, low-code or SAP BTP developer
-- Latest project: **[Invixta](https://github.com/InviXtaHydra/invixta)**, a football-shirt web shop with a local AI support agent (FastAPI, PostgreSQL + pgvector, Ollama, React)
-- Portfolio: **[semih-portfolio-zeta.vercel.app](https://semih-portfolio-zeta.vercel.app)**
-- Used to Agile/Scrum teams: stand-ups, refinements, sprint reviews and code reviews
-- Languages: Dutch and Turkish (native), English (fluent), French (basic)
+- 🔭 Open to roles as a **full-stack**, **low-code** or **SAP BTP developer**
+- 🤝 Experienced in Agile/Scrum teams: stand-ups, refinements, sprint reviews and code reviews
+- 🌍 Dutch and Turkish (native), English (fluent), French (basic)
+- 🌐 Portfolio: **[semih-portfolio-zeta.vercel.app](https://semih-portfolio-zeta.vercel.app)**
 
 ## Tech stack
 
@@ -56,51 +51,6 @@ Want to see what that looks like? Have a look at the **[projects on my GitHub](h
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Agile / Scrum](https://img.shields.io/badge/Agile_/_Scrum-2E7D32?style=for-the-badge)
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/InviXtaHydra/invixta"><img src="assets/invixta.jpg" alt="Invixta shop with the AI support assistant answering a question" width="100%"></a>
-      <h3><a href="https://github.com/InviXtaHydra/invixta">Invixta</a></h3>
-      <p>Football-shirt web shop with an AI support agent. It answers from real orders, stock and policy documents (RAG), runs on a local model in Ollama and asks the customer before it cancels anything.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL + pgvector">
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19">
-      </p>
-      <a href="https://semih-portfolio-zeta.vercel.app/#projects"><b>Demo video</b></a> · <a href="https://github.com/InviXtaHydra/invixta"><b>Code</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://imdbee.vercel.app"><img src="assets/imdbee.jpg" alt="IMDBee home page" width="100%"></a>
-      <h3><a href="https://imdbee.vercel.app">IMDBee</a></h3>
-      <p>Movie catalog with accounts, search and filters, star reviews and trailers. Live data from TMDB through a secured Spring Boot API.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3">
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-        <img src="https://img.shields.io/badge/JWT_auth-000000?style=flat-square" alt="JWT auth">
-      </p>
-      <a href="https://imdbee.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/InviXtaHydra/imdbee"><b>Code</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://semih-portfolio-zeta.vercel.app"><img src="assets/portfolio.jpg" alt="Portfolio hero with interactive wave lines" width="100%"></a>
-      <h3><a href="https://github.com/InviXtaHydra/semih-portfolio">Developer portfolio</a></h3>
-      <p>My personal portfolio: a hero of wave lines that bend around your mouse (click to send a shockwave), skills, experience and projects with demo videos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
-        <img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion">
-      </p>
-      <a href="https://semih-portfolio-zeta.vercel.app"><b>Live</b></a> · <a href="https://github.com/InviXtaHydra/semih-portfolio"><b>Code</b></a>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
-
 ## Experience
 
 | Period | Role | Company |
@@ -108,9 +58,15 @@ Want to see what that looks like? Have a look at the **[projects on my GitHub](h
 | Sep 2025 – Oct 2025 | Microsoft Power Platform Developer | Houben |
 | Sep 2024 – May 2025 | Full-Stack & Low-Code Developer (internship) | Collide |
 
-At **Houben** I built a SharePoint intranet with custom SPFx components and Power Automate workflows, and delivered a proof of concept within a tight timeline. At **Collide** I worked on an employee dashboard PWA: I wrote the first backend in Java and migrated it to Xano.
+- **Houben**: built a SharePoint intranet with custom SPFx components and Power Automate workflows, and delivered a proof of concept within a tight timeline.
+- **Collide**: worked on an employee dashboard PWA. Developed the initial backend in Java and later migrated it to Xano.
+
+## Education
+
+**Bachelor in Applied Computer Science**
 
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-semih--altintas-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/semih-altintas)
 [![Email](https://img.shields.io/badge/Email-semih--altintas%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semih-altintas@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-semih--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://semih-portfolio-zeta.vercel.app)
