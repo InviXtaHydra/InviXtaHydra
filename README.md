@@ -9,7 +9,7 @@ I take a strong interest in **AI and AI agents**: systems that retrieve informat
 - 🔭 Open to roles and projects as an **AI engineer**, **full-stack**, **low-code** or **SAP BTP developer**
 - 🤝 Experienced in Agile/Scrum teams: stand-ups, refinements, sprint reviews and code reviews
 - 🌍 Dutch and Turkish (native), English (fluent), French (basic)
-- 🌐 Portfolio: **[semih-portfolio-zeta.vercel.app](https://semih-portfolio-zeta.vercel.app)**
+- 🌐 Portfolio: **[www.semihaltintas.be](https://www.semihaltintas.be)**
 
 ## Tech stack
 
@@ -69,4 +69,4 @@ I take a strong interest in **AI and AI agents**: systems that retrieve informat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-semih--altintas-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/semih-altintas)
 [![Email](https://img.shields.io/badge/Email-semih--altintas%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semih-altintas@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-semih--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://semih-portfolio-zeta.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-semihaltintas.be-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.semihaltintas.be)
